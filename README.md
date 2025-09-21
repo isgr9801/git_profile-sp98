@@ -30,13 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
 </div>
 
-###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isgr9801&show_icons=true&theme=tokyonight)
-###
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isgr9801&theme=tokyonight&hide_border=false)
-###
-
-
 
 ## 📊 GitHub Stats
 
@@ -52,11 +45,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isgr9801&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" height="140"/>
 </p>
+<br />
 
-
-
-
-
+<br />
 <div align="left">
   <a href="sgrp9801@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
