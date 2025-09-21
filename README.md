@@ -31,6 +31,31 @@
 </div>
 
 ###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isgr9801&show_icons=true&theme=tokyonight)
+###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isgr9801&theme=tokyonight&hide_border=false)
+###
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isgr9801&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgr9801&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isgr9801&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isgr9801&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" height="140"/>
+</p>
+
+
+
+
 
 <div align="left">
   <a href="sgrp9801@gmail.com" target="_blank">
